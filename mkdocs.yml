@@ -70,3 +70,4 @@ nav:
   - Launchers:
     - CurseForge: launchers/curseforge.md
     - Prism Launcher: launchers/prism.md
+  - How do I...?: howdoi/howdoi.md
