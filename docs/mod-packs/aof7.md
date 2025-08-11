@@ -1,6 +1,6 @@
 # All of Fabric 7
 
-![AOF7 Cover](img/AoF7 title.png)
+![AOF7 Cover](img/AoF7 start.png)
 
 Get it with your launcher or direct from CurseForge: [All of Fabric 7](https://www.curseforge.com/minecraft/modpacks/all-of-fabric-7)
 
