@@ -3,7 +3,7 @@ site_url: https://teamaof.github.io/AOE-Wiki/
 theme:
   name: material
   logo: img/EOA_logoB.png
-  favicon: img/eoa_fav.png
+  favicon: img/eoa_fav.ico
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
