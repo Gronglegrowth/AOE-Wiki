@@ -19,4 +19,8 @@ nav:
     - All of Fabric 4: aof4.md
     - All of Fabric 3: aof3.md
   - Servers:
+    - Official Servers: official_servers.md
+    - Your own server: server.md
   - Launchers:
+    - CurseForge: curseforge.md
+    - Prism Launcher: prism.md
