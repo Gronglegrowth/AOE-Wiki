@@ -4,5 +4,6 @@
 <div class="grid cards" markdown>
 - :material-format-list-group: __Mod List__ [Craftoria MODLIST.md](https://github.com/TeamAOF/Craftoria7/blob/main/MODLIST.md)
 - :simple-curseforge: __CurseForge__ [Craftoria](https://www.curseforge.com/minecraft/modpacks/craftoria)
+- :fontawesome-brands-discord: __Discord Channel__ [\#craftoria](https://discord.com/channels/570630340075454474/1252708934729470094)
 - :fontawesome-brands-github: __GitHub__ [Craftoria on GitHub](https://github.com/TeamAOF/Craftoria)
 </div>
