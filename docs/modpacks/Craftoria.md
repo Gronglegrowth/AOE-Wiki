@@ -28,7 +28,7 @@
   7. Mining dims matching the vanilla ones (JAMD)
 
 ### "FAQ" FAQs
-* Team chat is bound to `y` by default.
+* Team chat is bound to `u` by default.
 * JDT Upgrades: use a smithing table to apply
 * JDT Paxels: assemble a JDT pickaxe, axe, and shovel in a smithing table
 
