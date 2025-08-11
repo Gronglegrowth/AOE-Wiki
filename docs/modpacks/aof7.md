@@ -2,7 +2,7 @@
 ![AOF7 Cover](img/AoF7 banner.png)
 
 <div class="grid cards" markdown>
-- :simple-curseforge: [All of Fabric 7](https://www.curseforge.com/minecraft/modpacks/all-of-fabric-7)
--  __Mod List__ [AoF7 MODLIST.md](https://github.com/TeamAOF/All-of-Fabric-7/blob/main/MODLIST.md)
-- :fontawesome-brands-github: [AoF7 on GitHub](https://github.com/TeamAOF/All-of-Fabric-7)
+- __CurseForge__ [All of Fabric 7](https://www.curseforge.com/minecraft/modpacks/all-of-fabric-7) :simple-curseforge:
+- __Mod List__ [AoF7 MODLIST.md](https://github.com/TeamAOF/All-of-Fabric-7/blob/main/MODLIST.md)
+- __Repo__ [AoF7 on GitHub](https://github.com/TeamAOF/All-of-Fabric-7) :fontawesome-brands-github:
 </div>
