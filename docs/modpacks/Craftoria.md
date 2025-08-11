@@ -28,22 +28,22 @@
   7. Mining dims matching the vanilla ones (JAMD)
 
 ### "FAQ" FAQs
-* Team chat is bound to `u` by default. (`y` in earlier versions)
-* JDT Upgrades: use a smithing table to apply
-* JDT Paxels: assemble a JDT pickaxe, axe, and shovel in a smithing table
+* Team chat is bound to `u` by default. (`y` in earlier versions).
+* JDT Upgrades: use a smithing table to apply them.
+* JDT Paxels: assemble a JDT pickaxe, axe, and shovel in a smithing table.
 
 ### Installing a Server
-1. Download the _Craftoria_ server zip from Curseforge
-2. The README.md included in that zip has directions (COMING SOON)
+1. Download the _Craftoria_ server zip from Curseforge.
+2. The README.md included in that zip has directions.
 3. TLDR? Run the `startserver.bat` or `.sh` script.
 
 ### Need further help?
-1. Open a post in <#1028818900768538695>. 
+1. Open a post in our discord forum, [#support](https://discord.com/channels/570630340075454474/1028818900768538695). 
 2. If you have one, include a crash-report, crash file, or latest log.
 3. Knowledgable players are very welcome to answer questions there too!
 
 ### Found a Bug?
-- Please let us know, with a post in <#1028644155305496576>.
+- Please let us know, with a post in our discord forum, [#bug-reports](https://discord.com/channels/570630340075454474/1028644155305496576)
 - Github repo issues are also welcomed.
 
 ### Addendum: Permissions
