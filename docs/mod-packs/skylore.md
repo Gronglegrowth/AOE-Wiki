@@ -1,10 +1,7 @@
 # Skylore
 
-<figure markdown="span">
-  ![AOF: Skylore](img/Skylore title.png)
-  <figcaption>Legacy Skylore title</figcaption>
-</figure>
+![AOF: Skylore](img/Skylore title.png)
 
-!!! example
+!!! example ""
 
     Coming Soon™ !️
