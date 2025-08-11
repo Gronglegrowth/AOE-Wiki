@@ -18,12 +18,12 @@ copyright: Copyright &copy; 2025 Team AOE
 nav:
   - Home: index.md
   - Mod Packs:
-    - Craftoria: mod-packs/Craftoria.md
-    - All of Fabric 7: mod-packs/aof7.md
-    - All of Fabric 6: mod-packs/aof6.md
-    - All of Fabric 5: mod-packs/aof5.md
-    - All of Fabric 4: mod-packs/aof4.md
-    - All of Fabric 3: mod-packs/aof3.md
+    - Craftoria: modpacks/Craftoria.md
+    - All of Fabric 7: modpacks/aof7.md
+    - All of Fabric 6: modpacks/aof6.md
+    - All of Fabric 5: modpacks/aof5.md
+    - All of Fabric 4: modpacks/aof4.md
+    - All of Fabric 3: modpacks/aof3.md
   - Servers:
     - Official Servers: servers/official_servers.md
     - Your own server: servers/server.md
