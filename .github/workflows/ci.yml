@@ -35,6 +35,7 @@ jobs:
             mkdocs-material-
       - name: Install Dependencies
         run: uv sync
+        run: uv pip install mkdocs-git-committers-plugin-2
       - name: Deploy to Github Pages
         run: uv run mkdocs gh-deploy --force
       - name: Prune uv Cache
