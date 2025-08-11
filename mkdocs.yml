@@ -71,4 +71,6 @@ nav:
     - CurseForge: launchers/curseforge.md
     - Prism Launcher: launchers/prism.md
   - Select Mods:
+    - Just Dire Things: mods/jdt.md
+    - Modern Industrialization: mods/mi.md
   - How do I...?: howdoi/howdoi.md
