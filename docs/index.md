@@ -1,4 +1,4 @@
-<center>![AOE](img/AOE logo.png)</center>
+![AOE](img/AOE logo.png)
 
 # Welcome to the AOE Wiki
 
