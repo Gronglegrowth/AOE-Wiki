@@ -2,3 +2,9 @@ site_name: AOE Wiki
 site_url: https://teamaof.github.io/AOE-Wiki/
 theme:
   name: material
+markdown_extensions:
+  - admonition
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
