@@ -12,15 +12,15 @@ copyright: Copyright &copy; 2025 Team AOE
 nav:
   - Home: index.md
   - Mod Packs:
-    - Craftoria: Craftoria.md
-    - All of Fabric 7: aof7.md
-    - All of Fabric 6: aof6.md
-    - All of Fabric 5: aof5.md
-    - All of Fabric 4: aof4.md
-    - All of Fabric 3: aof3.md
+    - Craftoria: mod-packs/Craftoria.md
+    - All of Fabric 7: mod-packs/aof7.md
+    - All of Fabric 6: mod-packs/aof6.md
+    - All of Fabric 5: mod-packs/aof5.md
+    - All of Fabric 4: mod-packs/aof4.md
+    - All of Fabric 3: mod-packs/aof3.md
   - Servers:
-    - Official Servers: official_servers.md
-    - Your own server: server.md
+    - Official Servers: servers/official_servers.md
+    - Your own server: servers/server.md
   - Launchers:
-    - CurseForge: curseforge.md
-    - Prism Launcher: prism.md
+    - CurseForge: launchers/curseforge.md
+    - Prism Launcher: launchers/prism.md
