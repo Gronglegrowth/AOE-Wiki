@@ -6,7 +6,7 @@ theme:
   favicon: img/eoa_fav.ico
   
   font:
-    text: Geist
+    text: Roboto
   
   palette:
     # Palette toggle for automatic mode
