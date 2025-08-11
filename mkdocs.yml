@@ -8,3 +8,5 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.mark
   - pymdownx.tilde
+copyright: Copyright &copy; 2025 Team AOE
+  
