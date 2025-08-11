@@ -2,8 +2,8 @@ site_name: AOE Wiki
 site_url: https://teamaof.github.io/AOE-Wiki/
 theme:
   name: material
-  logo: img/EOA logo.png
-  favicon: img/EOA logo.png
+  logo: img/EOA_logoB.png
+  favicon: img/EOA_logoB.png
   palette:
     primary: red
 
