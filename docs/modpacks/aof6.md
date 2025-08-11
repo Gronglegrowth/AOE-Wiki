@@ -11,9 +11,9 @@
 The community got up to some amazing stuff on the official servers, and [Kmbles](https://www.youtube.com/@kmbles) and [ClassicDuff](https://www.youtube.com/c/classicduff) put hosted and produced some great videos of (most of) it all!
 
 <center markdown>
-### [Kmbles](https://www.youtube.com/@kmbles)'s two hour tour of NA6 and EU6:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/icphgz0I0nc?si=dT7WwxaePN9eSWaK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-### [ClassicDuff](https://www.youtube.com/c/classicduff)'s one hour tour of NA6:
+### [ClassicDuff](https://www.youtube.com/c/classicduff)'s one-hour tour of NA6:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NzmkI2Wwnxs?si=pdLd1Gnj6VMRkChq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### [Kmbles](https://www.youtube.com/@kmbles)'s two-hour tour of NA6 and EU6:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/icphgz0I0nc?si=dT7WwxaePN9eSWaK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
