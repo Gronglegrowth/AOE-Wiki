@@ -1,3 +1,5 @@
+<center>![AOE](img/AOE logo.png)</center>
+
 # Welcome to the AOE Wiki
 
 This is the official wiki for packs made by the AOE team.
