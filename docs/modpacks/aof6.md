@@ -8,7 +8,7 @@
 - :fontawesome-brands-github: __GitHub__ [AoF6 on GitHub](https://github.com/TeamAOF/All-of-Fabric-6)
 </div>
 
-The community got up to some amazing stuff on the official servers, and [Kmbles](https://www.youtube.com/@kmbles) and [ClassicDuff](https://www.youtube.com/c/classicduff) put hosted and produced some great videos of (most of) it all!
+The community got up to some amazing stuff on the official servers, and [Kmbles](https://www.youtube.com/@kmbles) and [ClassicDuff](https://www.youtube.com/c/classicduff) hosted and produced some great videos of (most of) it all!
 
 <center markdown>
 ### [ClassicDuff](https://www.youtube.com/c/classicduff)'s one-hour tour of NA6:
