@@ -1,4 +1,4 @@
-<div style="margin:auto;text-align:center">
+<div style="margin:auto;text-align:center" markdown>
 ![AOE](img/AOE logo.png)
 
 # Welcome to the AOE Wiki
