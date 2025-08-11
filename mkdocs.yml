@@ -1,0 +1,4 @@
+site_name: AOE Wiki
+site_url: https://teamaof.github.io/aoe-wiki/
+theme:
+  name: material
