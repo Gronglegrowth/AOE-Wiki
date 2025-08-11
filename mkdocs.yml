@@ -9,4 +9,14 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.tilde
 copyright: Copyright &copy; 2025 Team AOE
-  
+nav:
+  - Home: index.md
+  - Mod Packs:
+    - Craftoria: Craftoria.md
+    - All of Fabric 7: aof7.md
+    - All of Fabric 6: aof6.md
+    - All of Fabric 5: aof5.md
+    - All of Fabric 4: aof4.md
+    - All of Fabric 3: aof3.md
+  - Servers:
+  - Launchers:
