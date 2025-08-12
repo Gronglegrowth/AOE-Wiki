@@ -1,6 +1,9 @@
 /.cache/
 /site/
 
+# DevEnv
+.venv/
+
 # OS Stuff
 .DS_Store
 Thumbs.db
