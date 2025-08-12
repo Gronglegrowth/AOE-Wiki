@@ -7,6 +7,9 @@ theme:
   
   font:
     text: Roboto
+    
+  features:
+    - content.footnote.tooltips
   
   palette:
     # Palette toggle for automatic mode
