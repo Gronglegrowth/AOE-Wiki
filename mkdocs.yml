@@ -7,9 +7,6 @@ theme:
   
   font:
     text: Roboto
-    
-  features:
-    - content.footnote.tooltips
   
   palette:
     # Palette toggle for automatic mode
@@ -42,12 +39,13 @@ extra_css:
         
 markdown_extensions:
   - admonition
+  - attr_list
+  - footnotes
+  - md_in_html
   - pymdownx.critic
   - pymdownx.caret
   - pymdownx.mark
   - pymdownx.tilde
-  - attr_list
-  - md_in_html
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
