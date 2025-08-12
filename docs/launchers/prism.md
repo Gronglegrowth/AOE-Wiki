@@ -14,10 +14,10 @@ Java args go in the `Java` tab of either:
 
 [^1]: Prism's General Settings' `Java` tab:
 
-![Prism's General Settings' `Java` tab](img/settings_java.png)
+![Prism's General Settings' `Java` tab](img/prism/settings_java.png)
 
 [^2]: Prism's General Settings' `Java` tab:
 
-![An instance's Setting's `Java` tab](img/console_settings.png)
+![An instance's Setting's `Java` tab](img/prism/console_settings.png)
 
 ---
