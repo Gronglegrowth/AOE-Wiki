@@ -66,10 +66,12 @@ nav:
     - All of Fabric 3: modpacks/aof3.md
   - Servers:
     - Official Servers: servers/official_servers.md
-    - Your own server: servers/server.md
+    - Your Own Server: servers/server.md
   - Launchers:
     - CurseForge: launchers/curseforge.md
     - Prism Launcher: launchers/prism.md
+  - Performance: performance.md
+  - Trouble Shooting: crashing.md
   - Select Mods:
     - Just Dire Things: mods/jdt.md
     - Modern Industrialization: mods/mi.md
