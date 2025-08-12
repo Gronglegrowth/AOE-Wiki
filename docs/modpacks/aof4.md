@@ -5,3 +5,5 @@
 - :simple-curseforge: __CurseForge__ [All of Fabric 4](https://www.curseforge.com/minecraft/modpacks/all-of-fabric-4)
 - :fontawesome-brands-github: __GitHub__ [AoF4 on GitHub](https://github.com/TeamAOF/All-of-Fabric-4)
 </div>
+
+---

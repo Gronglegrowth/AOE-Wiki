@@ -12,6 +12,4 @@
 ### All of Fabric 6
 * AOF6-EU : `aof6eu.modded.fun`
 
-!!! note
-
-    Updated 2025.08.11
+---

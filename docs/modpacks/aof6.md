@@ -17,3 +17,5 @@ The community got up to some amazing stuff on the official servers, and [Kmbles]
 ### [Kmbles](https://www.youtube.com/@kmbles)'s two-hour tour of NA6 and EU6
 <iframe width="560" height="315" src="https://www.youtube.com/embed/icphgz0I0nc?si=dT7WwxaePN9eSWaK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
+
+---

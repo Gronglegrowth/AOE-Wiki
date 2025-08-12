@@ -56,3 +56,5 @@
 To alter, use:
 - `/ftbranks node add [rank] [permission] [value(s)]` 
 - `/ftbranks node remove [rank] [permission]`
+
+---

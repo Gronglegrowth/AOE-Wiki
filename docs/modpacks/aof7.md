@@ -7,3 +7,5 @@
 - :fontawesome-brands-discord: __Discord Channel__ [\#all-of-fabric-7](https://discord.com/channels/570630340075454474/1137454902625443840)
 - :fontawesome-brands-github: __GitHub__ [AoF7 on GitHub](https://github.com/TeamAOF/All-of-Fabric-7)
 </div>
+
+---

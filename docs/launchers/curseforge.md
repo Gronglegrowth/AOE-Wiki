@@ -1,0 +1,3 @@
+# CurseForge Launcher
+
+---
