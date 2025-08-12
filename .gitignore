@@ -1,5 +1,6 @@
+/.cache/
+/site/
+
 # OS Stuff
 .DS_Store
 Thumbs.db
-/.cache/
-/site/
