@@ -3,6 +3,7 @@
 
 # DevEnv
 .venv/
+aoe_wiki.egg-info/
 
 # OS Stuff
 .DS_Store
