@@ -52,12 +52,12 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 plugins:
-  - glightbox
   - git-revision-date-localized:
       enable_creation_date: true
   - git-committers:
       repository: TeamAOF/AOE-Wiki
       branch: wiki
+  - glightbox
 
 copyright: Copyright &copy; 2025 Team AOE
 
