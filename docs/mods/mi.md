@@ -19,4 +19,3 @@ It won't take much, as 125mB of HP water takes up _16 times_ as much volume when
 If you are running (and thus boiling) HP water or HP heavy-water in a fission reactor, a small portion will be converted to Deuterium or Tritium, and this will amount will need to be continually replaced.
 
 ---
-https://teamaof.github.io/AOE-Wiki/howdoi/?h=dire+paxel#craft-the-just-dire-things-paxel:~:text=Dire%20Things%20paxel-,%3F,-To%20craft%20the
