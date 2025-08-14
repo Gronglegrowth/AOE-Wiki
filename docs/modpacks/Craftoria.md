@@ -16,16 +16,17 @@
 * Try these args: `-XX:+UseZGC -XX:+ZGenerational`
 
 ### Pack Content
-* Mods, so many mods!
-* Quests!
-* Dimensions!:
-  1. Vanilla: Overworld, Nether, and The End
-  2. The Bumblezone
-  3. Eternal Starlight
-  4. Deeper & Darker: The Otherside
-  5. Void (JAVD)
-  6. Compact Machines
-  7. Mining dims matching the vanilla ones (JAMD)
+Mods, so many mods!
+Quests!
+Dimensions!
+
+1. Vanilla: Overworld, Nether, and The End
+1. The Bumblezone
+1. Eternal Starlight
+1. Deeper & Darker: The Otherside
+1. Void (JAVD)
+1. Compact Machines
+1. Mining dims matching the vanilla ones (JAMD)
 
 ### "FAQ" FAQs
 * Team chat is bound to `u` by default. (`y` in earlier versions).
