@@ -21,14 +21,18 @@ If your game is struggling, try:
 | **AOF 4** | 1.17 | Java17 |
 | **AOF 3** | 1.16 | Java8  |
 
-### For Clients
+### Java Args
+
+#### For Clients
+
+Around 6–8GB should work well for any AOE modpacks.
 
 | AOE Mod Pack   | Java Args for Client           |
 |:--------------:|--------------------------------|
 | ***Craftoria***|`-XX:+UseZGC -XX:+ZGenerational`|
 | **AOF 7**      |`-XX:+UseZGC -XX:+ZGenerational`, with Java21|
 
-### For Servers
+#### For Servers
 
 On a server GC through-put may be more valuable than latency—which the default `G1GC` garbage-collector will deliver.
 

@@ -10,6 +10,10 @@ theme:
 
   features:
     - navigation.footer
+    - search
+    - search.suggest
+    - search.highlight
+    - search.share
   
   palette:
     # Palette toggle for automatic mode
@@ -64,6 +68,7 @@ plugins:
       repository: TeamAOF/AOE-Wiki
       branch: wiki
   - glightbox
+  - search
 
 copyright: Copyright &copy; 2025 Team AOE
 
