@@ -3,6 +3,10 @@
 ## ...craft the ==_Just Dire Things_ paxel?==
 To craft the __celestigem__ or __eclipse alloy__ paxels from the mod *Just Dire Things* you need to place all three component tools—pickaxe, axe, and shovel—into the [smithing table](https://innx.dev/images/paxel.webp).
 
+!!! success
+	EMI now correctly displays this recipe, in recent versions of [***Craftoria***](/AOE-Wiki/modpacks/Craftoria/).
+
+
 ## ...obtain the ==Hazen items?==
 Most of the items are craftable, but there's a list of ones that are not:
 
@@ -17,5 +21,14 @@ Most of the items are craftable, but there's a list of ones that are not:
 Search EMI with these terms:
 - `#replicator_1_blacklist` (for Mk1)
 - `#replicator_blacklist`	(for Mk2)
+
+## ...convert from or to EU, FE, AE, or Joules?
+
+| EU  | FE | AE | J   | E | LF | :material-lightning-bolt: |
+|:----|:---|:---|:----|:--|:---|:--|
+| 0.1 | 1  | 2  | 2.5 | 1 | 1  | 1 |
+
+In [***Craftoria***](../modpacks/Craftoria/) the Flux Transformer will convert 1 EU to 50 FE, only.  
+Connecting EU directly to anything that runs on FE will yield a 1 EU : 10 FE result.
 
 ---
