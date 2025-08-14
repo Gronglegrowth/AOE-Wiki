@@ -6,7 +6,7 @@ theme:
   favicon: img/eoa_fav.ico
   
   font:
-    text: Roboto
+    text: Inclusive Sans
 
   features:
     - navigation.footer
