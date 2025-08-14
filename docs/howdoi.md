@@ -18,17 +18,24 @@ Most of the items are craftable, but there's a list of ones that are not:
 
 ## ...find the items on the ==Replicator Mk1 and Mk2 blacklists==?
 
-Search EMI with these terms:
-- `#replicator_1_blacklist` (for Mk1)
+Search EMI with these terms:  
+
+- `#replicator_1_blacklist` (for Mk1)  
 - `#replicator_blacklist`	(for Mk2)
 
-## ...convert from or to EU, FE, AE, or Joules?
+## ...calculate ==energy conversion== from one kind to another?
 
 | EU  | FE | AE | J   | E | LF | :material-lightning-bolt: |
 |:----|:---|:---|:----|:--|:---|:--|
 | 0.1 | 1  | 2  | 2.5 | 1 | 1  | 1 |
+/// caption
+Conversion ratios of various Energies
+///
 
 In [***Craftoria***](../modpacks/Craftoria/) the Flux Transformer will convert 1 EU to 50 FE, only.  
 Connecting EU directly to anything that runs on FE will yield a 1 EU : 10 FE result.
+
+!!! info
+	No energy kind can be converted into EU. However [_Modern Industrialization_](../mods/mi/) has a config option for MI to allow this, if you wish it for you own worlds.
 
 ---
