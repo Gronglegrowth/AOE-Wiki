@@ -60,6 +60,8 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.tasklist:
+      custom_checkbox: false
 
 plugins:
   - git-revision-date-localized:
@@ -90,6 +92,7 @@ nav:
   - Performance: performance.md
   - Trouble Shooting: crashing.md
   - Select Mods:
+    - EMI: mods/emi.md
     - Just Dire Things: mods/jdt.md
     - Modern Industrialization: mods/mi.md
   - How do I...?: howdoi.md
