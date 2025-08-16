@@ -32,10 +32,10 @@ Search EMI with these terms:
 Conversion ratios of various Energies
 ///
 
-In [***Craftoria***](../modpacks/Craftoria/) the Flux Transformer will convert 1 EU to 50 FE, only.  
+In [***Craftoria***](modpacks/Craftoria.md) the Flux Transformer will convert 1 EU to 50 FE, only.  
 Connecting EU directly to anything that runs on FE will yield a 1 EU : 10 FE result.
 
 !!! info
-	No energy kind can be converted into EU. However [_Modern Industrialization_](../mods/mi/) has a config option for MI to allow this, if you wish it for you own worlds.
+	No energy kind can be converted into EU. However [_Modern Industrialization_](mods/mi.md) has a config option for MI to allow this, if you wish it for you own worlds.
 
 ---

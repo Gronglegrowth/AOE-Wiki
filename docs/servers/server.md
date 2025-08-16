@@ -9,7 +9,7 @@
 Now you should have a running local server.
 
 !!! Note
-	Be sure you have the [right Java version](../../performance/#which-java-to-use) for the modpack you want to play
+	Be sure you have the [right Java version](../performance.md#which-java-to-use) for the modpack you want to play
 
 ## Installing a hosted server
 
