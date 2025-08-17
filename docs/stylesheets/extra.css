@@ -1,3 +1,88 @@
+/* Custom AOE color-schemes, based on AOE logo */
+
+:root {
+--aoe-red:		oklch(60.21% 0.1792 19.68);		/* hsl(355deg 64% 56%);	*/
+--aoe-teal:		oklch(63.11% 0.0492 189.47);	/* hsl(175deg 18% 49%);	*/
+--aoe-purple:	oklch(53.14% 0.0308 313.25);	/* hsl(283deg 13% 37%); */
+/* maybe lose the -bg; close in hue to the purple */
+--aoe-bg:			oklch(26.3% 0.034 310.88);		/* 2a2031 */
+}
+
+[data-md-color-scheme="aoe-light"] {
+	color-scheme: light;
+	
+	--md-primary-fg-color:						var(--aoe-teal); /* oklch(from var(--aoe-teal) l calc(c/0.64) h); */
+/*		--md-primary-fg-color--light: white; */
+/*		--md-primary-fg-color--dark:	white; */
+	--md-accent-fg-color:							oklch(from var(--aoe-purple) calc(l*0.8) calc(c/0.2) h);
+	
+	/* Default color shades */
+	--md-default-fg-color:						oklch(from var(--aoe-purple) 4% c h);
+	--md-default-fg-color--light:			okclh(from var(--md-default-fg-color-light) (calc l/0.54) c h);
+	--md-default-fg-color--lighter:		okclh(from var(--md-default-fg-color-light) (calc l/0.32) c h);
+	--md-default-fg-color--lightest:	okclh(from var(--md-default-fg-color-light) (calc l/0.07) c h);
+	
+	--md-default-bg-color:						oklch(from var(--aoe-purple) calc(l/0.125) calc(c/1.25) h);
+	--md-default-bg-color--light:			oklch(from var(--md-default-bg-color) calc(l/0.7) c h);
+	--md-default-bg-color--lighter:		oklch(from var(--md-default-bg-color) calc(l/0.3) c h);
+	--md-default-bg-color--lightest:	oklch(from var(--md-default-bg-color) calc(l/0.12) c h);
+
+	/* Typeset color shads */
+	--md-typeset-color:								var(--md-default-fg-color);
+	--md-typeset-a-color:							var(--md-primary-fg-color);
+
+  /* Admonition color shades */
+  --md-admonition-fg-color:					var(--md-default-fg-color);
+  --md-admonition-bg-color:					var(--md-default-bg-color);
+
+	/* Footer color shades */
+  --md-footer-fg-color:							hsla(0, 0%, 100%, 1);
+  --md-footer-fg-color--light:			hsla(0, 0%, 100%, 0.7);
+  --md-footer-fg-color--lighter:		hsla(0, 0%, 100%, 0.45);
+	--md-footer-bg-color:							oklch(from var(--aoe-red) calc(l/1) calc(c*0.75) h);
+  --md-footer-bg-color--dark:				oklch(from var(--md-footer-bg-color) calc(l/1.75) calc(c/1) h);
+
+	img[src$="#only-dark"] { display: none; }
+
+}
+
+@media screen {
+	[data-md-color-scheme="aoe-dark"] {
+		 color-scheme: dark;
+
+		--md-primary-fg-color:						var(--aoe-red);
+/*		--md-primary-fg-color--light: white; */
+/*		--md-primary-fg-color--dark:	white; */
+		--md-accent-fg-color:							oklch(from var(--aoe-teal) l calc(c/0.5) h);
+		
+		/* Default color shades */
+		--md-default-fg-color:						hsl(225 15% 90% / 0.82);
+		--md-default-fg-color--light:			okclh(from var(--md-default-fg-color-light) (calc l/0.56) c h);
+		--md-default-fg-color--lighter:		okclh(from var(--md-default-fg-color-light) (calc l/0.32) c h);
+		--md-default-fg-color--lightest:	okclh(from var(--md-default-fg-color-light) (calc l/0.12) c h);
+
+		--md-default-bg-color:						oklch(from var(--aoe-purple) calc(l*0.32) calc(c*0.5) h);
+		--md-default-bg-color--light:			oklch(from var(--md-default-bg-color) calc(l/0.54) c h);
+		--md-default-bg-color--lighter:		oklch(from var(--md-default-bg-color) calc(l/0.26) c h);
+		--md-default-bg-color--lightest:	oklch(from var(--md-default-bg-color) calc(l/0.07) c h);
+		
+		/* Typeset color shads */
+		--md-typeset-color:								var(--md-default-fg-color);
+		--md-typeset-a-color:							var(--md-primary-fg-color);
+		
+		/* Admonition color shades */
+  	--md-admonition-fg-color:					var(--md-default-fg-color);
+  	--md-admonition-bg-color:					var(--md-default-bg-color);
+
+		/* Footer color shades */
+		--md-footer-bg-color:							oklch(from var(--aoe-purple) calc(l*0.25) calc(c/0.5) h);
+		--md-footer-bg-color--dark:				oklch(from var(--md-footer-bg-color) calc(l*0.25) calc(c/0.5) h);
+	
+		img[src$="#only-light"] { display: none; }
+	}
+}
+
+/* center the git dates and authors thing at bottom */
 aside.md-source-file{
 	margin: auto;
 	text-align: center

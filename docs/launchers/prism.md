@@ -1,4 +1,4 @@
-# Prism Launcher ![Prism](img/prism_logo.svg#only-light){align=right} ![Prism](img/prism_logo.dk.svg#only-dark){align=right}
+# Prism Launcher ![Prism](img/prism_logo.svg#only-light){ align=right } ![Prism](img/prism_logo.dk.svg#only-dark){ align=right }
 
 Prism Launcher is popular among avid modded Minecraft players.
 

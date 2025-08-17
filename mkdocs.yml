@@ -6,7 +6,7 @@ theme:
   favicon: img/eoa_fav.ico
   
   font:
-    text: Inclusive Sans
+    text: Finlandica
 
   features:
     - navigation.footer
@@ -18,25 +18,24 @@ theme:
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
-      primary: red    
       toggle:
         icon: material/brightness-auto
         name: Switch to light mode
 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: indigo
-      accent: orange      
+      scheme: aoe-light
+#      primary: indigo
+#      accent: orange      
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
 
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: red
-      accent: yellow
+      scheme: aoe-dark
+#      primary: red
+#      accent: yellow
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
@@ -45,9 +44,9 @@ extra_css:
   - stylesheets/extra.css
         
 markdown_extensions:
-  - admonition
   - attr_list
   - footnotes
+  - admonition
   - md_in_html
   - pymdownx.critic
   - pymdownx.caret
@@ -69,7 +68,9 @@ plugins:
   - git-committers:
       repository: TeamAOF/AOE-Wiki
       branch: wiki
-  - glightbox
+  - glightbox:
+      skip_classes:
+        - skip-lightbox
   - search
 
 copyright: Copyright &copy; 2025 Team AOE

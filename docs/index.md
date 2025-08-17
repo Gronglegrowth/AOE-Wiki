@@ -1,5 +1,7 @@
 <div style="margin:auto;text-align:center" markdown>
-![AOE](img/AOE logo.png)
+
+![AOE](img/AOE logo.png#only-light){ .skip-lightbox style=filter:invert() }
+![AOE](img/AOE logo.png#only-dark){ .skip-lightbox }
 
 # Welcome to the AOE Wiki
 
