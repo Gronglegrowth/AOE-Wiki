@@ -1,5 +1,8 @@
-/* Custom AOE color-schemes, based on AOE logo */
+/***
+	Extra CSS for AOE Wiki
+***/
 
+/* Custom AOE color-schemes, based on AOE logo */
 :root {
 --aoe-red:		oklch(60.21% 0.1792 19.68);		/* hsl(355deg 64% 56%);	*/
 --aoe-teal:		oklch(63.11% 0.0492 189.47);	/* hsl(175deg 18% 49%);	*/
@@ -61,7 +64,7 @@
 		--md-default-fg-color--lighter:		okclh(from var(--md-default-fg-color-light) (calc l/0.32) c h);
 		--md-default-fg-color--lightest:	okclh(from var(--md-default-fg-color-light) (calc l/0.12) c h);
 
-		--md-default-bg-color:						oklch(from var(--aoe-purple) calc(l*0.32) calc(c*0.5) h);
+		--md-default-bg-color:						oklch(from var(--aoe-purple) calc(l*0.36) calc(c*0.5) h);
 		--md-default-bg-color--light:			oklch(from var(--md-default-bg-color) calc(l/0.54) c h);
 		--md-default-bg-color--lighter:		oklch(from var(--md-default-bg-color) calc(l/0.26) c h);
 		--md-default-bg-color--lightest:	oklch(from var(--md-default-bg-color) calc(l/0.07) c h);
@@ -87,3 +90,9 @@ aside.md-source-file{
 	margin: auto;
 	text-align: center
 }
+
+/* fatten up those navigation links */
+div[data-md-type='navigation'] { font-weight: bold; }
+
+div[data-md-type='toc'] { font-weight: 600; }
+
