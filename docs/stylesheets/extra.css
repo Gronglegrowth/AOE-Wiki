@@ -79,8 +79,8 @@
     --md-admonition-bg-color:         var(--md-default-bg-color);
 
     /* Footer color shades */
-    --md-footer-bg-color:             oklch(from var(--aoe-purple) calc(l*0.25) calc(c/0.5) h);
-    --md-footer-bg-color--dark:       oklch(from var(--md-footer-bg-color) calc(l*0.25) calc(c/0.5) h);
+    --md-footer-bg-color:             oklch(from var(--aoe-purple) calc(l*0.5) calc(c/0.5) h);
+    --md-footer-bg-color--dark:       oklch(from var(--md-footer-bg-color) calc(l*0.4) calc(c/0.5) h);
   
     img[src$="#only-light"] { display: none; }
   }
