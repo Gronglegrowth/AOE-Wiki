@@ -17,7 +17,7 @@
 	--md-primary-fg-color:						var(--aoe-teal); /* oklch(from var(--aoe-teal) l calc(c/0.64) h); */
 /*		--md-primary-fg-color--light: white; */
 /*		--md-primary-fg-color--dark:	white; */
-	--md-accent-fg-color:							oklch(from var(--aoe-purple) calc(l*0.8) calc(c/0.2) h);
+	--md-accent-fg-color:							oklch(from var(--aoe-purple) calc(l * 0.8) calc(c / 0.2) h);
 	
 	/* Default color shades */
 	--md-default-fg-color:						oklch(from var(--aoe-purple) 4% c h);
