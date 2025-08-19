@@ -97,3 +97,12 @@ div[data-md-type='navigation'] { font-weight: bold; }
 
 div[data-md-type='toc'] { font-weight: 600; }
 
+/* older mkdocs-material style admonitions */
+/* 
+.md-typeset .admonition,
+.md-typeset details {
+  border-width: 0;
+  border-left-width: 4px;
+}
+*/
+
