@@ -6,4 +6,6 @@
 - :fontawesome-brands-github: __GitHub__ [AoF4 on GitHub](https://github.com/TeamAOF/All-of-Fabric-4)
 </div>
 
+<!--- ## AOF4 FAQ -->
+
 ---

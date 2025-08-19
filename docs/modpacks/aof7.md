@@ -8,4 +8,6 @@
 - :fontawesome-brands-github: __GitHub__ [AoF7 on GitHub](https://github.com/TeamAOF/All-of-Fabric-7)
 </div>
 
+<!--- ## AOF7 FAQ -->
+
 ---

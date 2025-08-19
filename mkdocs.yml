@@ -9,10 +9,13 @@ theme:
     text: Finlandica
 
   features:
+#    - navigation.tabs
     - navigation.footer
+    - navigation.instant
+    - navigation.instant.progress
     - search
     - search.suggest
-    - search.highlight
+    - search.highlight)
     - search.share
   
   palette:
@@ -61,6 +64,8 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.tasklist:
       custom_checkbox: false
+  - toc:
+      permalink: true
 
 plugins:
   - git-revision-date-localized:
@@ -79,6 +84,8 @@ nav:
   - Home: index.md
   - Mod Packs:
     - Craftoria: modpacks/Craftoria.md
+#      - FAQ: modpacks/Craftoria/faq.md
+#      - Hype: modpacks/Craftoria/media.md
     - All of Fabric 7: modpacks/aof7.md
     - All of Fabric 6: modpacks/aof6.md
     - All of Fabric 5: modpacks/aof5.md
@@ -94,6 +101,6 @@ nav:
   - Trouble Shooting: crashing.md
   - Select Mods:
     - EMI: mods/emi.md
-    - Just Dire Things: mods/jdt.md
+#    - Just Dire Things: mods/jdt.md
     - Modern Industrialization: mods/mi.md
-  - How do I...?: howdoi.md
+  - FAQs: faqs.md

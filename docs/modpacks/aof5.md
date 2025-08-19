@@ -8,4 +8,6 @@
 - :fontawesome-brands-github: __GitHub__ [AoF5 on GitHub](https://github.com/TeamAOF/All-of-Fabric-5)
 </div>
 
+<!--- ## AOF5 FAQ -->
+
 ---

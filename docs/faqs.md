@@ -1,4 +1,22 @@
-# How do I...?
+# Frequently Asked Questions
+_Just the FAQs, ma'am. Just the FAQs._
+
+## Packs' FAQs
+
+- [Craftoria FAQ](modpacks/Craftoria.md#craftoria-faq)
+<!--- - [All of Fabric 7 FAQ](modpacks/aof7.md#aof7-faq) -->
+<!--- - [All of Fabric 6 FAQ](modpacks/aof6.md#aof6-faq) -->
+<!--- - [All of Fabric 5 FAQ](modpacks/aof5.md#aof5-faq) -->
+<!--- - [All of Fabric 4 FAQ](modpacks/aof4.md#aof4-faq) -->
+<!--- - [All of Fabric 3 FAQ](modpacks/aof3.md#aof3-faq) -->
+
+## Mods' FAQs
+
+- [EMI FAQ](mods/emi.md#emi-faq)
+- [Modern Industrialization FAQ](mods/mi.md#mi-faq)
+<!--- - [Just Dire Things FAQ](mods/jdt.md#jdt-faq) -->
+
+## How do I...?
 
 ## ...craft the ==_Just Dire Things_ paxel?==
 To craft the __celestigem__ or __eclipse alloy__ paxels from the mod *Just Dire Things* you need to place all three component tools—pickaxe, axe, and shovel—into the [smithing table](https://innx.dev/images/paxel.webp).
