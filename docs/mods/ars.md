@@ -67,7 +67,10 @@ After summoning, you will need to bind the **golem** to a **home**. This can be 
 It is recommended that their home is set to an inventory, as they will otherwise leave **Amethyst Shards** lying on the ground.  
 If their **home** is an inventory, they will also automatically stop harvesting when it is full.
 
-## Also see the [_Ars Nouveau_ Wiki](https://www.arsnouveau.wiki/).
+## See also:
+
+### [_Ars.Guide_](https://ars.guide/)
+### [_Ars Nouveau_ Wiki](https://www.arsnouveau.wiki/)
 
 <br/>
 
