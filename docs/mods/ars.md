@@ -26,10 +26,10 @@ All the **Archwood Saplings** can be transmuted into each other by crafting them
     <center>![Vexing Archwood Sapling](img/vexing_archwood_sapling_recipe.png)</center>
   
 === "Flashing"
-    <center>![Flashing Archwood Sapling](img/flashing_archwood_sapling_recipe.png)</center>
-
-
-*Accepts any other Archwood Sapling*
+    <center>
+    ![Flashing Archwood Sapling](img/flashing_archwood_sapling_recipe.png)  
+    *Accepts any other Archwood Sapling*
+    </center>
 
 Alternatively, they can also be bought from **Farming for Blockheads' Market** for 1 **Emerald** each.
 
