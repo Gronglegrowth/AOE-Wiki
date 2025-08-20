@@ -8,6 +8,17 @@
 - :fontawesome-brands-github: __GitHub__ [AoF7 on GitHub](https://github.com/TeamAOF/All-of-Fabric-7)
 </div>
 
+## Hype
+
+### Let's Play Series
+
+=== "[MrBlockHead](https://www.youtube.com/@MrBlockHead)"
+    <center><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=FJbNJBsVgVvkimFO&amp;list=PLIM1uY0S_QmzHTHmyS08iK0HHJQNkOg5L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
+
+=== "[FallnLog](https://www.youtube.com/@FallnLog-q7f)"
+    <center>[FallnLog's Let's Play All of Fabric 7 Series](https://youtube.com/playlist?list=PLDSg0Ebb6kHbfmN0wTlDoMYDRMy8-O2eA&si=tuOC9-lqW3_IH6DW)</center>
+
+
 <!--- ## AOF7 FAQ -->
 
 ---

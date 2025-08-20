@@ -8,6 +8,19 @@
 - :fontawesome-brands-github: __GitHub__ [AoF5 on GitHub](https://github.com/TeamAOF/All-of-Fabric-5)
 </div>
 
+## Hype
+
+### Let's Play Series
+
+=== "[Kmbles](https://www.youtube.com/@kmbles) Season 1"
+    <center><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=esn01t2id9fVoDi_&amp;list=PLf-9vmpCe61qDirbeh3689ixk4KewSDyD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
+
+=== "[Kmbles](https://www.youtube.com/@kmbles) Season 2"
+    <center><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=gTQExgQX0CJQvRan&amp;list=PLf-9vmpCe61p9dP3QGl_Lb8LdisZDGDD2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
+
+=== "[ClassicDuff](https://www.youtube.com/@ClassicDuff) All of Fabric 5 SMP"
+    <center><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=ixs1bJw2RQHSjd38&amp;list=PLUtwxvjnGFJCfNme1EMlYS2I0BycZllbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
+
 <!--- ## AOF5 FAQ -->
 
 ---

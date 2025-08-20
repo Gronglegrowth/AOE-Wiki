@@ -8,6 +8,16 @@
 - :fontawesome-brands-github: __GitHub__ [AoF6 on GitHub](https://github.com/TeamAOF/All-of-Fabric-6)
 </div>
 
+## Hype
+
+### Let's Play Series
+
+=== "[Kmbles](https://www.youtube.com/@kmbles)"
+    <center><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=Lt5sWBDSEQKj2PwN&amp;list=PLf-9vmpCe61qlEiLF1aqF55OFkbGvxybb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
+
+=== "[ClassicDuff](https://www.youtube.com/@ClassicDuff)"
+    <center><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=bATQFL4ufuSgMuFT&amp;list=PLUtwxvjnGFJDsTCUuXTxciy4u8Ae85TvP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
+
 <!--- ## AOF6 FAQ -->
 
 ## Tips
