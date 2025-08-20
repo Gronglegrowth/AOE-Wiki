@@ -36,7 +36,7 @@ The community got up to some amazing stuff on the [official servers](http://loca
 
 ## Tips
 
-# An Early Game Plan
+### An Early Game Plan
 
 A few things that make early game easier:
 
@@ -61,15 +61,10 @@ Crouching will disable the 3x3 and allow you to veinmine with the drill. make su
 !!! quote ""
     Thanks to _Lingaurdium_ for sharing their early game strategy
 
-## Hype
-
-
-
 ## Behind the Scenes Bonus!
 
 ### At Work: Facu
 
-![Facu at Work: _Craftoria's_ cover art](img/Craftoria art progression.gif){align=center}
-
+![Facu at Work: _All of Fabric 6's_ cover art](img/AoF6 art progression.gif){align=center}
 
 ---
