@@ -10,12 +10,13 @@
 
 ### Let's Play Series
 
+<center markdown>
 === "[Racingsky](https://www.youtube.com/@Racingsky)"
-    <center><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=Q6dRvAEmBVRAgFgx&amp;list=PLDU-7sxnHMhCwlnYyJ4IWWfDOsoh142Bo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=Q6dRvAEmBVRAgFgx&amp;list=PLDU-7sxnHMhCwlnYyJ4IWWfDOsoh142Bo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 === "[Redrosyrae TV](https://www.youtube.com/@redrosyraetv)"
-    <center><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=qkf96bD5VKy1o064&amp;list=PLAGzKHmiHw6iDCnjSApT-HAWozM6aOFaa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
-
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=qkf96bD5VKy1o064&amp;list=PLAGzKHmiHw6iDCnjSApT-HAWozM6aOFaa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
 
 <!--- ## AOF4 FAQ -->
 

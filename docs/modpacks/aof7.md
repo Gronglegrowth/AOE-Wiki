@@ -12,13 +12,20 @@
 
 ### Let's Play Series
 
+<center markdown>
 === "[MrBlockHead](https://www.youtube.com/@MrBlockHead)"
-    <center><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=FJbNJBsVgVvkimFO&amp;list=PLIM1uY0S_QmzHTHmyS08iK0HHJQNkOg5L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=FJbNJBsVgVvkimFO&amp;list=PLIM1uY0S_QmzHTHmyS08iK0HHJQNkOg5L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 === "[FallnLog](https://www.youtube.com/@FallnLog-q7f)"
-    <center>[FallnLog's Let's Play All of Fabric 7 Series](https://youtube.com/playlist?list=PLDSg0Ebb6kHbfmN0wTlDoMYDRMy8-O2eA&si=tuOC9-lqW3_IH6DW)</center>
-
+    [FallnLog's Let's Play All of Fabric 7 Series](https://youtube.com/playlist?list=PLDSg0Ebb6kHbfmN0wTlDoMYDRMy8-O2eA&si=tuOC9-lqW3_IH6DW)
+</center>
 
 <!--- ## AOF7 FAQ -->
+
+## Behind the Scenes Bonus!
+
+### At Work: Facu
+
+![Facu at Work: -All of Fabric 7's_ cover art](img/AoF7 art progression.gif)
 
 ---

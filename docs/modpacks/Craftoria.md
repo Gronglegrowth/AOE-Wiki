@@ -12,18 +12,19 @@
 
 ### Let's Play Series
 
+<center markdown>
 === "[ChosenArchitect](https://www.youtube.com/@ChosenArchitect)"
-    <center><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=FSk4Ks-IF2U2PU5-&amp;list=PL_ipI8CnaNIa5vyojV7RdUVrp7QETcvMx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=FSk4Ks-IF2U2PU5-&amp;list=PL_ipI8CnaNIa5vyojV7RdUVrp7QETcvMx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 === "[Jangro](https://www.youtube.com/@jangrogames)"
-    <center><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=PaDnrqa8badVmois&amp;list=PLONH6gx1GJLm5SDuuQlaK3wQi4Yc6BmJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=PaDnrqa8badVmois&amp;list=PLONH6gx1GJLm5SDuuQlaK3wQi4Yc6BmJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 === "[Keno](https://www.youtube.com/@KenoGarage)"
-    <center><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=1yMcmQQtGDWYdjTn&amp;list=PLUsekSl0l8yyY98CAACrRjItnzC3fH6Gx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=1yMcmQQtGDWYdjTn&amp;list=PLUsekSl0l8yyY98CAACrRjItnzC3fH6Gx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 === "[Kmbles](https://www.youtube.com/@kmbles)"
-    <center><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=qyX0REsoTIV9njvA&amp;list=PLf-9vmpCe61pConmM7Qla18UIck-avHkV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
-      
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=qyX0REsoTIV9njvA&amp;list=PLf-9vmpCe61pConmM7Qla18UIck-avHkV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
 
 ## Craftoria FAQ
 
@@ -74,5 +75,11 @@ Dimensions!
 To alter, use:
 - `/ftbranks node add [rank] [permission] [value(s)]` 
 - `/ftbranks node remove [rank] [permission]`
+
+## Behind the Scenes Bonus!
+
+### At Work: Facu
+
+![Facu at Work: _Craftoria's_ cover art](img/Craftoria art progression.gif)
 
 ---

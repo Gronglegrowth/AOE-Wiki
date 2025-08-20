@@ -12,8 +12,10 @@
 
 ### Let's Play Series
 
+<center markdown>
 === "[ChosenArchitect](https://www.youtube.com/@ChosenArchitect)"
-    <center><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=uq9a7tpyDqRvNZdx&amp;list=PL_ipI8CnaNIb7iBwMdROX67uaTyOtpP93" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=uq9a7tpyDqRvNZdx&amp;list=PL_ipI8CnaNIb7iBwMdROX67uaTyOtpP93" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
 
 <!--- ## AOF3 FAQ -->
 

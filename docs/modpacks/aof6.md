@@ -10,13 +10,27 @@
 
 ## Hype
 
+### World Tours
+
+The community got up to some amazing stuff on the [official servers](http://localhost:8000/AOE-Wiki/servers/official_servers/#all-of-fabric-6), and [Kmbles](https://www.youtube.com/@kmbles) and [ClassicDuff](https://www.youtube.com/c/classicduff) hosted and produced some great videos of some of the highlights.
+
+<center markdown>
+=== "[ClassicDuff](https://www.youtube.com/c/classicduff)'s one-hour tour of NA6"
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/NzmkI2Wwnxs?si=pdLd1Gnj6VMRkChq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+=== "[Kmbles](https://www.youtube.com/@kmbles)'s two-hour tour of NA6 and EU6"
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/icphgz0I0nc?si=dT7WwxaePN9eSWaK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
 ### Let's Play Series
 
+<center markdown>
 === "[Kmbles](https://www.youtube.com/@kmbles)"
-    <center><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=Lt5sWBDSEQKj2PwN&amp;list=PLf-9vmpCe61qlEiLF1aqF55OFkbGvxybb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=Lt5sWBDSEQKj2PwN&amp;list=PLf-9vmpCe61qlEiLF1aqF55OFkbGvxybb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 === "[ClassicDuff](https://www.youtube.com/@ClassicDuff)"
-    <center><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=bATQFL4ufuSgMuFT&amp;list=PLUtwxvjnGFJDsTCUuXTxciy4u8Ae85TvP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=bATQFL4ufuSgMuFT&amp;list=PLUtwxvjnGFJDsTCUuXTxciy4u8Ae85TvP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
 
 <!--- ## AOF6 FAQ -->
 
@@ -49,14 +63,13 @@ Crouching will disable the 3x3 and allow you to veinmine with the drill. make su
 
 ## Hype
 
-The community got up to some amazing stuff on the official servers, and [Kmbles](https://www.youtube.com/@kmbles) and [ClassicDuff](https://www.youtube.com/c/classicduff) hosted and produced some great videos of (most of) it all!
 
-<center markdown>
-### [ClassicDuff](https://www.youtube.com/c/classicduff)'s one-hour tour of NA6
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NzmkI2Wwnxs?si=pdLd1Gnj6VMRkChq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### [Kmbles](https://www.youtube.com/@kmbles)'s two-hour tour of NA6 and EU6
-<iframe width="560" height="315" src="https://www.youtube.com/embed/icphgz0I0nc?si=dT7WwxaePN9eSWaK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</center>
+## Behind the Scenes Bonus!
+
+### At Work: Facu
+
+![Facu at Work: _Craftoria's_ cover art](img/Craftoria art progression.gif)
+
 
 ---
