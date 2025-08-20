@@ -4,9 +4,9 @@
 
 You are, of course!, free to add, remove, or update mods for your own instance or server, though understand that may break things.
 
-## Logs, Crash-Reports, Error Files, and how to read them
+## Logs, Crash-Reports, Error Files, and How to Read Them
 
-### Finding and Sharing the relevant files
+### Finding and Sharing the Relevant Files
 
 Your log files, crash reports, and error files are helpful, often essential, in diagnosing what problems your game may be having.
 
@@ -30,9 +30,11 @@ Paste the files you find into [mclo.gs](https://mclo.gs), then share the resulti
 <crash-reports>
 <hs_err>
 <macOS and Linux error files?>_
+-->
 
 ### How to read them
--->
+
+_< to be written soon >_
 
 <!--
 ## Editing the World
