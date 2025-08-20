@@ -48,11 +48,6 @@ Lastly, [regex](https://en.wikipedia.org/wiki/Regular_expression) search can be 
 _Credit to *800020h* for collecting and making clear EMI's search abilities._
 
 <!-- Sub's outline notes
-TODO
-
-- [ ] search prefixes
-- [ ] logically combining searches, etc
-
 ## Bookmarks
 
 ## Crafting Trees
@@ -60,7 +55,7 @@ TODO
 TODO
 
 - [ ] how to make and use them
-- [ ] synthetic bookmarks
+- [ ] **synthetic bookmarks**
 - [ ] tip about setting a, perhaps, more appealing background
 
 ## UI Options
