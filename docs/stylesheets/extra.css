@@ -93,8 +93,8 @@ aside.md-source-file{
 }
 
 /* fatten up those navigation links */
-div[data-md-type='navigation'] { font-weight: bold; }
-
+label.md-nav__title { font-style: italic; }
+div[data-md-type='navigation'] { font-weight: 600; }
 div[data-md-type='toc'] { font-weight: 600; }
 
 /* older mkdocs-material style admonitions */
