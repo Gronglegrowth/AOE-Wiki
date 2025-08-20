@@ -802,6 +802,15 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#searching" class="md-nav__link">
+    <span class="md-ellipsis">
+      Searching
+    </span>
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -936,6 +945,15 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#searching" class="md-nav__link">
+    <span class="md-ellipsis">
+      Searching
+    </span>
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -968,9 +986,73 @@
 <li>To favorite a recipe and ensure your EMI views it as the default, press on the <code>❤</code> button usually to the right of the output slot in a recipe.</li>
 <li>To auto-fill a recipe into a workstation, open a valid workstation, open the recipe in your EMI, then press the <code>+</code> button, usually to the right of the output slot in a recipe.</li>
 </ul>
+<h2 id="searching">Searching<a class="headerlink" href="#searching" title="Permanent link">&para;</a></h2>
+<p>EMI offers special syntax for specific searches...</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">seach by:</th>
+<th style="text-align: center;">syntax:</th>
+<th>matches items and blocks that...</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong><em>mod</em></strong></td>
+<td style="text-align: center;"><code>@&lt;foo&gt;</code></td>
+<td>...have <code>&lt;foo&gt;</code> in their mod's name</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong><em>tag</em></strong></td>
+<td style="text-align: center;"><code>#&lt;foo&gt;</code></td>
+<td>...are tagged with <code>&lt;foo&gt;</code></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong><em>tooltip</em></strong></td>
+<td style="text-align: center;"><code>$&lt;foo&gt;</code></td>
+<td>...have <code>&lt;foo&gt;</code> in their tooltip</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong><em>string</em></strong></td>
+<td style="text-align: center;"><code>"&lt;foo&gt;"</code></td>
+<td>...have <code>&lt;foo&gt;</code> anywhere <sup>(1,</sup> <sup>2)</sup></td>
+</tr>
+</tbody>
+</table>
+<p>...and search terms can be combined:</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: right;">search phrase:</th>
+<th style="text-align: left;">returns:</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: right;"><code>&lt;foo&gt; &lt;bar&gt;</code></td>
+<td style="text-align: left;"><code>&lt;foo&gt;</code> <em>AND</em> <code>&lt;bar&gt;</code></td>
+</tr>
+<tr>
+<td style="text-align: right;"><code>&lt;foo&gt; | &lt;bar&gt;</code></td>
+<td style="text-align: left;"><code>&lt;foo&gt;</code> <em>OR</em> <code>&lt;bar&gt;</code> <sup>(3)</sup></td>
+</tr>
+<tr>
+<td style="text-align: right;"><code>-&lt;foo&gt;</code></td>
+<td style="text-align: left;"><em>NOT</em> <code>&lt;foo&gt;</code></td>
+</tr>
+</tbody>
+</table>
+<p>Lastly, <a href="https://en.wikipedia.org/wiki/Regular_expression">regex</a> search can be had with the form: <code>/&lt;foo&gt;/</code>.</p>
+<div class="admonition note">
+<p class="admonition-title">Notes on EMI's search syntax</p>
+<ol>
+<li><code>a b</code> matches <code>a b</code> <em>and</em> <code>b a</code></li>
+<li><code>"a b"</code> matches only <code>a b</code> (not <code>b a</code>)</li>
+<li><code>a b | c</code> is the same as [<code>a</code> <em>AND</em> <code>b</code>] <em>OR</em> [<code>c</code>]</li>
+</ol>
+</div>
+<p><em>Credit to <em>800020h</em> for collecting and making clear EMI's search abilities.</em></p>
 <!-- Sub's outline notes
-## Searching
-
 TODO
 
 - [ ] search prefixes
@@ -1017,7 +1099,7 @@ TODO
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="August 19, 2025 12:29:14 UTC">August 19, 2025</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="August 20, 2025 04:04:22 UTC">August 20, 2025</span>
   </span>
 
     
