@@ -17,9 +17,37 @@ When in your inventory, on the right is your main browser. On your left will be 
 - To favorite a recipe and ensure your EMI views it as the default, press on the `❤` button usually to the right of the output slot in a recipe.
 - To auto-fill a recipe into a workstation, open a valid workstation, open the recipe in your EMI, then press the `+` button, usually to the right of the output slot in a recipe.
 
-<!-- Sub's outline notes
+
 ## Searching
 
+EMI offers special syntax for specific searches...
+
+| seach by: | syntax: | matches items and blocks that... |
+|:-:|:-:|-|
+| ***mod*** | `@<foo>` | ...have `<foo>` in their mod's name |
+| ***tag*** | `#<foo>` | ...are tagged with `<foo>` |
+| ***tooltip*** | `$<foo>` | ...have `<foo>` in their tooltip |
+| ***string*** | `"<foo>"` | ...have `<foo>` anywhere ^(1,^ ^2)^ |
+
+...and search terms can be combined:
+
+| search phrase: | returns: |
+|-:|:-|
+| `<foo> <bar>` | `<foo>` *AND* `<bar>` |
+| `<foo> | <bar>` | `<foo>` *OR* `<bar>` ^(3)^ |
+| `-<foo>` | *NOT* `<foo>` |
+
+
+Lastly, [regex](https://en.wikipedia.org/wiki/Regular_expression) search can be had with the form: `/<foo>/`.
+
+!!! note "Notes on EMI's search syntax"
+    1. `a b` matches `a b` _and_ `b a`
+    2. `"a b"` matches only `a b` (not `b a`)
+    3. `a b | c` is the same as [`a` *AND* `b`] *OR* [`c`]
+
+_Credit to *800020h* for collecting and making clear EMI's search abilities._
+
+<!-- Sub's outline notes
 TODO
 
 - [ ] search prefixes
