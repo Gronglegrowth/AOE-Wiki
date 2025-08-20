@@ -29,7 +29,7 @@
   /* Code color shades */
   --md-code-bg-color:               oklch(from var(--md-accent-fg-color) 92% 0.01 h);
   
-  /* Typeset color shads */
+  /* Typeset color shades */
   --md-typeset-color:               var(--md-default-fg-color);
   --md-typeset-a-color:             var(--md-primary-fg-color);
 
@@ -44,6 +44,7 @@
   --md-footer-bg-color:             oklch(from var(--aoe-red) calc(l/1) calc(c*0.75) h);
   --md-footer-bg-color--dark:       oklch(from var(--md-footer-bg-color) calc(l/1.75) calc(c/1) h);
 
+  /* hide vampiric images */  
   img[src$="#only-dark"] { display: none; }
 
 }
@@ -81,8 +82,10 @@
     /* Footer color shades */
     --md-footer-bg-color:             oklch(from var(--aoe-purple) calc(l*0.5) calc(c/0.5) h);
     --md-footer-bg-color--dark:       oklch(from var(--md-footer-bg-color) calc(l*0.4) calc(c/0.5) h);
-  
+
+    /* hide images that are afraid of the dark(-mode) */  
     img[src$="#only-light"] { display: none; }
+     
   }
 }
 
@@ -92,9 +95,15 @@ aside.md-source-file{
   text-align: center
 }
 
-/* fatten up those navigation links */
-div[data-md-type='navigation'] { font-weight: bold; }
+/* Nav styling for mobile */
+@media screen and (max-width: 76.25em) {
+  .md-nav--primary .md-nav__title {
+    background-color: var(--md-primary-fg-color);
+  }
+}
 
+label.md-nav__title { font-style: italic; }
+div[data-md-type='navigation'] { font-weight: 600; }
 div[data-md-type='toc'] { font-weight: 600; }
 
 /* older mkdocs-material style admonitions */
