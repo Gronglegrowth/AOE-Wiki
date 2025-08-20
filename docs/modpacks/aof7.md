@@ -26,6 +26,6 @@
 
 ### At Work: Facu
 
-![Facu at Work: -All of Fabric 7's_ cover art](img/AoF7 art progression.gif)
+![Facu at Work: -All of Fabric 7's_ cover art](img/AoF7 art progression.gif){align=center}
 
 ---

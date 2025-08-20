@@ -69,7 +69,7 @@ Crouching will disable the 3x3 and allow you to veinmine with the drill. make su
 
 ### At Work: Facu
 
-![Facu at Work: _Craftoria's_ cover art](img/Craftoria art progression.gif)
+![Facu at Work: _Craftoria's_ cover art](img/Craftoria art progression.gif){align=center}
 
 
 ---

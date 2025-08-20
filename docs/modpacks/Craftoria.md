@@ -80,6 +80,6 @@ To alter, use:
 
 ### At Work: Facu
 
-![Facu at Work: _Craftoria's_ cover art](img/Craftoria art progression.gif)
+![Facu at Work: _Craftoria's_ cover art](img/Craftoria art progression.gif){align=center}
 
 ---
