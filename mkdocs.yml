@@ -1,9 +1,13 @@
 site_name: AOE Wiki
 site_url: https://teamaof.github.io/AOE-Wiki/
+repo_url: https://github.com/TeamAOF/AOE-Wiki
+repo_name: AOE Wiki on GitHub
 theme:
   name: material
   logo: img/EOA_logoB.png
   favicon: img/eoa_fav.ico
+  icon:
+    repo: fontawesome/brands/git-alt
   
   font:
     text: Finlandica
