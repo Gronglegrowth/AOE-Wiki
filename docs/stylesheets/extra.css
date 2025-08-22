@@ -102,6 +102,13 @@ aside.md-source-file{
   }
 }
 
+@media screen and (max-width: 59.984375em) {
+   .md-nav__source {
+      background-color: var( --md-footer-bg-color);
+      
+   }
+}
+
 /* Bold-er Nav-section headings */
 label.md-nav__title { font-style: italic; }
 div[data-md-type='navigation'] { font-weight: 600; }
