@@ -99,6 +99,7 @@ nav:
   - Servers:
     - Official Servers: servers/official_servers.md
     - Your Own Server: servers/server.md
+    - Server-less: servers/less.md
   - Launchers:
     - CurseForge: launchers/curseforge.md
     - Prism Launcher: launchers/prism.md

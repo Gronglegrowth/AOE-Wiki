@@ -1,5 +1,8 @@
 # Your Own Server
 
+??? tip "Server? I just want to play with my friends!"
+    Check out [Serverless](less.md)
+
 ## Installing a local server
 
 1. Download and unzip the server zip file from CurseForge.

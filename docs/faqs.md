@@ -16,8 +16,10 @@ _Just the FAQs, ma'am. Just the FAQs._
 - [Modern Industrialization FAQ](mods/mi.md#mi-faq)
 <!--- - [Just Dire Things FAQ](mods/jdt.md#jdt-faq) -->
 
-## ~~General~~ Inno's FAQ
-_props to Inno for writing these all up! -ed._
+## General FAQ
+
+??? success "Credit and thanks to Inno..."
+    ...for writing and maintaining a long, informative, quality FAQ before this wiki came along and absorbed it.
 
 ### Trying to Verify?
 First, read [#whitelisting](https://discord.com/channels/570630340075454474/726536593136943204) in it's entirety. By whitelisting yourself to one of our servers, you agree to the rules.
@@ -44,18 +46,6 @@ Use `/unverify` before doing your verification process over again, just as you d
 
 The website `craftoria.net` is **not** owned or run by us and we do not affiliate with it. It was created by an unknown entity without permission and contains a *lot* of false information about the modpack.
 
----
-
-### Looking for a method to play with friends without needing to pay?
-
-#### There are two common methods:
-- First is the Essential Mod, which is known to cause incompatibilities with mods in the pack (possibly due to the requirement of Sinytra Connector) and is full of bloat and microtransactions. The mod is also closed source, so no one exactly knows what's going on under the hood. So we don't actually recommend you attempt to use this, despite is overwhelming popularity.
-- Second is [e4mc](<https://modrinth.com/mod/e4mc>). This is our recommended mod for self hosting servers *without* the need for port forwarding. With this mod, your "Open to Lan" button becomes a "Start Server" button and is only needed to be installed on the side that becomes the host. It's simple, and performant. **Disclaimer: You have no access to whitelist or any other security measures. These servers can be found, accessed, and destroyed by malicious actors if you are not careful.** Obviously, this means only host the world *while* you are actively playing and engaged. Do **not** AFK for long periods of time. **If** someone you don't recognize accesses your world, quickly close the server, backup your world, and wait a while (maybe hours) before starting back up your LAN server. The chances *are* lower due to this being modded and thus the malicious actors wanting to join will need each specific mod on the server, but they are never zero.
-
-#### There are other methods too:
-- Hamachi is a hosted VPN service to extend LAN-like networks to people. AKA, it can directly tunnel between two IPs to "fake" a local IP on someone else's computer. This is a dated software, and although it's continuing functionality, it may have some risks, including the exploit above.
-- [playit.gg](<https://www.playit.gg>) is a program to run on your own computer, but should be used for hosted servers. This means, you need to properly host a server locally, then run the program to tunnel. Do be careful because *playit.gg* uses a fixed, non-negligible amount of IPs, and only shuffle ports for each IP address. This makes finding the IP easier than for other methods of finding IPs. Although, due to the nature of this being an actual server, you can setup permissions, OP only yourself, setup whitelists, etc. **So, do enable whitelist and ensure the server, in `server.properties`, has `online-mode` set to `true` to protect your server the most.**
-
 --
 
 ### Adoptium (AdoptOpenJDK)
@@ -64,23 +54,6 @@ For Craftoria and AOF7:
 
 For AOF7, AOF6, AOF5:
 [Java 17](https://adoptium.net/?variant=openjdk17&jvmVariant=hotspot) for Minecraft 1.17 to 1.20.4
-
---
-
-To host your own server locally, proceed to the [Craftoria Curseforge](<https://www.curseforge.com/minecraft/modpacks/craftoria/files/all?page=1&pageSize=20&version=1.21.1&gameVersionTypeId=6>) page and look for the latest version in the files. Press *Additional Files* to find the **Server Files**.
-
-Press download and you should obtain a `.zip` file, also known as an "archive." Extract this into the folder you would like to host your server from. This `.zip` file does *not* have the mods included in it from the get go, this is to cut down on unnecessary direct file sizes.
-
-Next, ensure you have [Java 21](<https://adoptium.net/?variant=openjdk21&jvmVariant=hotspott>) installed, as you'll need it to run servers (and clients) from Minecraft version 1.20.5 and up.
-
-Then, navigate back to the folder you extracted the files to and run the `startserver.bat` if you are on windows, or `startserver.sh` if you are on Linux or Mac (both are Unix based). This will begin to download all the required mods, config, and everything else required. After, you'll be prompted to accept the EULA, which you can do right in the terminal by following the instructions it provides. After which you have accepted, the world will begin to load up and generate (this may take a considerable amount of time, depending on your hardware).
-
---
-
-Ensure you're using optimal Java arguments depending on how much RAM you allocate.
-
-If you're allocating 6GB or more, use `-XX:+UseZGC -XX:+ZGenerational`
-If you're allocating less than 6GB, use `-XX:+UseG1GC`
 
 --
 
