@@ -12,6 +12,15 @@ If your game is struggling, try:
 
 ### Which Java to Use?
 
+_Adoptium_ is nice; really, any OpenJDK build provider should be fine.
+
+- [Adoptium Java 21](https://adoptium.net/?variant=openjdk21&jvmVariant=hotspott): for MC 1.20.5 or later, and [***Craftoria***](../modpacks/Craftoria) and [***All of Fabric 7***](../modpacks/aof7).
+
+- [Adoptium Java 17](https://adoptium.net/?variant=openjdk17&jvmVariant=hotspot): for MC 1.17–1.20.4; and ***All of Fabric*** [**5**](../modpacks/aof5), [**6**](../modpacks/aof6), and [**7**](../modpacks/aof7).
+
+
+### Java and Minecraft versions, and our Modpacks
+
 | AOE Pack | Minecraft version | Java version (tied to MC version) |
 |:-:|:-:|-|
 | ***Craftoria*** | 1.21 | Java21 |
