@@ -2,6 +2,7 @@ site_name: AOE Wiki
 site_url: https://teamaof.github.io/AOE-Wiki/
 repo_url: https://github.com/TeamAOF/AOE-Wiki
 repo_name: AOE Wiki on GitHub
+edit_uri: blob/wiki/docs/
 theme:
   name: material
   logo: img/EOA_logoB.png
@@ -13,6 +14,8 @@ theme:
     text: Finlandica
 
   features:
+    - content.action.view
+    - content.action.edit
     - navigation.path
     - navigation.footer
     - navigation.instant
