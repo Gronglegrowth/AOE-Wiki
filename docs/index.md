@@ -1,3 +1,5 @@
+<style> .md-content__button { display: none;} </style>
+
 <div style="margin:auto;text-align:center" markdown>
 
 ![AOE](img/AOE logo.png#only-light){ .skip-lightbox style=filter:invert() }
@@ -15,15 +17,19 @@ Here you can find information about our packs, tips, and how-to's for in-game an
 </div>
 
 <div style="max-width: 27.5em; margin:auto" markdown>
-??? question "Contribute? *Yes, please!*"
+???+ question "Contribute? *Yes, please!*"
 
      Contributions to this wiki are very welcome.
-
-    - **Easiest**: Just send us markdown formatted text.
-    - **Easy-ish**: Fork this wiki's repo, and PR your new material or corrections.
-
-    ??? note "Less Easy, but then Easy:"
-        Install mkdocs-material and use `mkdoks serve` to get back to "Easy"
+     
+     **Easiest:** click the `Edit This Page` button near the top right of a page.
+     
+    ???+ note "Less Easy at first, but then Easy, for larger work:"
+        - Clone your fork locally
+        - Install mkdocs-material
+        - Use `mkdoks serve`
+            1. Open `localhost:8000`
+            2. Site refreshes on every document save.
+        - Push to your fork and PR as normal
 </div>
 
 ---
