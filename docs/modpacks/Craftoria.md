@@ -46,15 +46,62 @@ Dimensions!
 1. Compact Machines
 1. Mining dims matching the vanilla ones (JAMD)
 
-### "FAQ" FAQs
-* Team chat is bound to `u` by default. (`y` in earlier versions). If no one can see your messages, you may have this toggled on.
-* JDT Upgrades: use a smithing table to apply them.
-* JDT Paxels: assemble a JDT pickaxe, axe, and shovel in a smithing table.
+### Other FAQ
+
+#### Team chat
+Team chat is bound to `u` by default. (`y` in earlier versions). If no one can see your messages, you may have this toggled on.
+
+#### JDT Upgrades
+Use a smithing table to apply them.
+
+#### JDT Paxels
+Assemble a JDT pickaxe, axe, and shovel in a smithing table.
+!!! success "Fixed: EMI properly displays the JDT paxel recipe in recent pack versions."
+
+#### Obtaining Hazen Items
+Most of the items are craftable, but there's a list of ones that are not:
+
+* Arbitrium Armor (Creative only)
+* Excalibur Fragment (Obtained by Killing the Dead King)
+* Fireblossom (Found in Crimson Forests in the Nether)
+* Rod Of Discord & Starfury (Rare drop from Endermen)
+* Overgrown/Charred bones (Dropped from Bogged and Wither Skeletons respectively)
+
+#### World Tiers
+The *Apotheosis* mod has a mechanic called "World Tiers."
+
+- Use the default keybind (++ctrl+"T"++) to see the display of world tiers and what each entails.
+- Check the advancement tab (default: ++"L"++) labeled _Apothic World Tiers_ to see how to unlock the next world tier.
+
+Each world tier unlocks the spawning of higher level mob bosses and the chance to obtain better apothic gear traits.
+
+#### Replicator Black-lists
+To find the items in the blacklist for both the Replicator Mk1 and the Replicator Mk2, search the following for the two blacklists in EMI respectively:
+
+- `#replicator_1_blacklist` for Replicator Mk1
+- `#replicator_blacklist` for Replicator Mk2
+
+### Whitelisting on our Official Servers
+
+1. Read the [#whitelisting](https://discord.com/channels/570630340075454474/726536593136943204) channel on our discord, in it's entirety.
+
+    By whitelisting yourself to one of our servers, you agree to the rules.
+
+2. Head over to one of the server channels.
+    -  [#craftoria-eu](https://discord.com/channels/570630340075454474/1254490870808318087)
+    - [#craftoria-eu2](https://discord.com/channels/570630340075454474/1292199371848552548)
+    - [#craftoria-na](https://discord.com/channels/570630340075454474/1282263854922862632))
+
+3. Use the command `/verify` followed by the code you obtain when first attempting to join the server.
+
+!!! question "`/verify`-ed yourself, but still can't get in?"
+    1. Use the command `/unverify`, then retry the verification steps.
+    2. If Discord is not recognizing your `/verify` command, try **disabling** this setting in Discord:
+        - `Settings` -> `Accessability` -> __`Use the legacy chat input.`__
 
 ### Installing a Server
-1. Download the _Craftoria_ server zip from Curseforge.
-2. The README.md included in that zip has directions.
-3. TLDR? Run the `startserver.bat` or `.sh` script.
+
+See [Your Own Server](../../servers/server/)
 
 ### Need further help?
 1. Open a post in our discord forum, [#support](https://discord.com/channels/570630340075454474/1028818900768538695). 
