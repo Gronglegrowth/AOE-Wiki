@@ -13,7 +13,7 @@ theme:
     text: Finlandica
 
   features:
-#    - navigation.tabs
+    - navigation.path
     - navigation.footer
     - navigation.instant
     - navigation.instant.progress
@@ -58,6 +58,7 @@ markdown_extensions:
   - pymdownx.critic
   - pymdownx.caret
   - pymdownx.details
+  - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
   - pymdownx.blocks.caption
@@ -103,7 +104,7 @@ nav:
   - Launchers:
     - CurseForge: launchers/curseforge.md
     - Prism Launcher: launchers/prism.md
-  - Performance: performance.md
+  - Java & Performance: performance.md
   - Trouble Shooting: crashing.md
   - Select Mods:
     - EMI: mods/emi.md
