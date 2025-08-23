@@ -16,14 +16,14 @@ Here you can find information about our packs, tips, and how-to's for in-game an
 [:fontawesome-brands-discord: Join AOE Discord](https://discord.gg/6rkdm48){ .md-button .md-button-primary }
 </div>
 
-<div style="max-width: 27.5em; margin:auto" markdown>
-???+ question "Contribute? *Yes, please!*"
+<div style="max-width: 27em; margin:auto" markdown>
+??? question "Contribute? *Yes, please!*"
 
      Contributions to this wiki are very welcome.
      
      **Easiest:** click the `Edit This Page` button near the top right of a page.
      
-    ???+ note "Less Easy at first, but then Easy, for larger work:"
+    ??? note "Less Easy at first, but then Easy, for larger work:"
         - Clone your fork locally
         - Install mkdocs-material
         - Use `mkdoks serve`
